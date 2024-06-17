@@ -1,0 +1,4 @@
+Estamos manipulando o arquivo.
+Manipulando
+Ola
+mundo

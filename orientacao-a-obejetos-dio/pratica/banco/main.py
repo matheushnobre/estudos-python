@@ -163,6 +163,7 @@ def cadastrar_conta():
             case '2':
                 limpar()
                 print('Funcionalidade ainda não adicionada ao sistema. Volte em breve!')
+                confirmar()
                 break
             case '3':
                 break

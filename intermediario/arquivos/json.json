@@ -1,0 +1,22 @@
+{
+  "nome": "Matheus",
+  "sobrenome": "Nobre",
+  "enderecos": [
+    {
+      "rua": "R1",
+      "numero": 32
+    },
+    {
+      "rua": "R2",
+      "numero": 55
+    }
+  ],
+  "altura": 1.84,
+  "numeros_preferidos": [
+    12,
+    28,
+    10
+  ],
+  "dev": true,
+  "nada": null
+}
